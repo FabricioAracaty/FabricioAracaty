@@ -11,7 +11,7 @@
     
   ## My GitHub stats
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAracaty&langs_count=9&layout=compact&theme=dracula&hide=java,scss,gdscript" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAracaty&langs_count=9&layout=compact&theme=dracula&hide=java,scss,gdscript" />
   
   ![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioAracaty&show_icons=true&theme=dracula&count_private=true)
  
