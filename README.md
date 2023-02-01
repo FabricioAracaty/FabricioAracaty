@@ -5,7 +5,7 @@
 <div style="display: inline_block"><br>
       
 <picture>
-  <source media="(prefers-color-scheme: dark)" height="250" width="800" srcset="https://raw.githubusercontent.com/FabricioAracaty/Images/master/front-end.gif">
+  <source media="(prefers-color-scheme: dark)" height="200" width="600" srcset="https://raw.githubusercontent.com/FabricioAracaty/Images/master/front-end.gif">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="">
 </picture>
   
