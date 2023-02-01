@@ -11,9 +11,9 @@
     
   ## My GitHub stats
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAracaty&langs_count=9&layout=compact&theme=dracula&hide=java,scss,gdscript" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAracaty&langs_count=9&layout=compact&theme=synthwave&hide=java,scss,gdscript" />
  
-  ![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioAracaty&show_icons=true&theme=dracula&count_private=true)
+  ![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioAracaty&show_icons=true&theme=synthwave&count_private=true)
  
   <a href="https://www.instagram.com/fabricioaracaty/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href="https://discord.gg/h3EznQ8Y" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
