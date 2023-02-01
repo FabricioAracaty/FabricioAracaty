@@ -3,7 +3,14 @@
 - 🌱 Estudando HTML, CSS, JavaScript
 - 💬 Contate-me no email: fabricioaracaty@gmail.com
 <div style="display: inline_block"><br>
-
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.retro-synthwave.com/wp-content/uploads/2016/10/retro-synthwave_GIF-01-32.gif">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://www.retro-synthwave.com/wp-content/uploads/2016/10/retro-synthwave_GIF-01-19.gif">
+</picture>
+  
+<br>
+  
   <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabricio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
