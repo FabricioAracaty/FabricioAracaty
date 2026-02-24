@@ -13,7 +13,7 @@
     
   ## My GitHub stats
  
-  ![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioAracaty&show_icons=true&theme=synthwave&count_private=true)
+  
   
  <img align="center" alt="Fabricio-Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Fabricio-Ts" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
