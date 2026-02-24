@@ -29,4 +29,4 @@
   <a href="https://www.youtube.com/channel/UCL3VUrHQJ9HQJQl-bpdHgVg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabricio-j-queiroz-aracaty-7b1261143/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+ </div>
